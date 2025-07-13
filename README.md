@@ -1,4 +1,4 @@
-# qp-assessment
+# get-grocery
 
 **Grocery Booking App:**  
 A Spring Boot REST API for managing grocery items and orders with JWT-based authentication and role-based authorization.
